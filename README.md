@@ -2,7 +2,7 @@
 Hexo文档批量导入到MWeb
 
 ## 1、导入效果
-![-w200](https://raw.githubusercontent.com/chenzz/static-resource/master/1122CBEF-358F-4F80-AF64-5A56C5938248.png)
+![-w200](https://raw.githubusercontent.com/chenzz/static-resource/master/85D4C01F-38F5-457B-AB2F-FA3444E7A6E6.png)
 
 ## 2、具体需求
 
