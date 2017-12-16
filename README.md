@@ -1,5 +1,5 @@
 # mweb-hexo-importer
-把Hexo文档导入到MWeb中
+把Hexo文档批量导入到MWeb中
 
 ## 1、导入效果
 ![-w200](https://raw.githubusercontent.com/chenzz/static-resource/master/1122CBEF-358F-4F80-AF64-5A56C5938248.png)
